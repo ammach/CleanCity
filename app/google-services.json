@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "690946633503",
+    "firebase_url": "https://clean-city-fe2fa.firebaseio.com",
+    "project_id": "clean-city-fe2fa",
+    "storage_bucket": "clean-city-fe2fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690946633503:android:5dbb1e2a27a62a46",
+        "android_client_info": {
+          "package_name": "com.ammach.cleancity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690946633503-hsob56qppsavvve2v0lhu34o8ecn8tho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ammach.cleancity",
+            "certificate_hash": "6DD14FB8E10822DEFE6ED267E873567EE387AB7B"
+          }
+        },
+        {
+          "client_id": "690946633503-tq937vtngn8rddiai5n5nldtdfcckd7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqmtw6EVYsCpU2D7I6tEUONVi-MbKg8rY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690946633503-tq937vtngn8rddiai5n5nldtdfcckd7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

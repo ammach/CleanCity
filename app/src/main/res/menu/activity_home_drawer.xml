@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/item_map"
+            android:icon="@drawable/map"
+            android:title="Map" />
+        <item
+            android:id="@+id/item_score"
+            android:icon="@drawable/score"
+            android:title="Mon Score" />
+        <item
+            android:id="@+id/item_search"
+            android:icon="@drawable/ic_action_search"
+            android:title="Rechercher" />
+        <item
+            android:id="@+id/item_contact"
+            android:icon="@drawable/contact"
+            android:title="Contacter Admin" />
+    </group>
+
+
+
+</menu>
